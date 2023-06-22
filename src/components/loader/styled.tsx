@@ -9,7 +9,6 @@ export const rotateAnimation = keyframes`
   }
 `;
 
-// Estilizando o componente de loading
 export const LoadingContainer = styled.div`
   display: flex;
   align-items: center;
