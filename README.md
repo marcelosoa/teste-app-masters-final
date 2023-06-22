@@ -8,7 +8,7 @@ Tecnologias utilizadas:
 - typescript
 - axios
 
-- link do projeto em funcionamento:
+- link do projeto em funcionamento: https://teste-app-masters-final.vercel.app/
 
 
 
