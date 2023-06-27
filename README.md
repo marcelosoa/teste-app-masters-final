@@ -1,4 +1,4 @@
-# Teste desenvolvido para a vaga de Estagiario
+# Teste desenvolvido para a vaga
 
 Tecnologias utilizadas: 
 - ReactJS
